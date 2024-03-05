@@ -1,0 +1,10 @@
+.datepicker{
+	padding: 5px !important;
+}
+.notification-response{
+    display: flex;
+    flex-wrap: wrap;
+}
+.notification-response.success, .notification-response.failure {
+    margin-left:10px;
+}
